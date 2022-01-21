@@ -13,7 +13,7 @@ Tubes visdat kelompok 6
 - Rachmi Helfianur (1301184308)
 """
 
-!pip install bokeh
+# !pip install bokeh
 
 import pandas as pd
 import numpy as np
