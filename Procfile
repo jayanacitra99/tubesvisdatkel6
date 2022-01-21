@@ -1,0 +1,1 @@
+web: gunicorn tubes_visdat_kelompok_6:app --log-file -
